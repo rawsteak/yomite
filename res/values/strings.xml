@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yomite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startMsg">This is the start message.</string>
+    <string name="startBtn1">Start with correct index</string>
+    <string name="startBtn2">Start with wrong index</string>
+    <string name="menu_back">Vuforia Samples</string>
+    <string name="menu_flash">Flash</string>
+    <string name="menu_flash_error_on">Unable to turn on flash</string>
+    <string name="menu_flash_error_off">Unable to turn off flash</string>
+    <string name="menu_contAutofocus">Autofocus</string>
+    <string name="menu_contAutofocus_error_on">Unable to activate Continuous Auto-Focus</string>
+    <string name="menu_contAutofocus_error_off">Unable to deactivate Continuous Auto-Focus</string>
+    <string name="menu_datasets">DATASETS</string>
+    <string name="menu_camera">CAMERA</string>
+    <string name="menu_camera_front">Front</string>
+    <string name="menu_camera_back">Rear</string>
+    <string-array name="rotIndices">
+        <item>Rotation 10</item>
+        <item>Rotation 11</item>
+        <item>Rotation 12</item>
+        <item>Rotation 13</item>
+    </string-array>
+    <string name ="spin_prompt">Select rotation index</string>
+
+</resources>
